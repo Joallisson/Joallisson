@@ -11,4 +11,13 @@
 
 ## Tecnologias que uso no meu dia-a-dia  
  
+ <br/>
+ <br/>
+ 
+- 💼 Trabalho atualmente como tecnico em informática
+- 👨 Tenho 22 anos
+- 🏠 Moro em Balsas Ma - Brasil
+- 🎓 Graduado em Sistemas de Informação
+- 💻 Gosto muito de tecnologia e gosto de estudar programação no tempo livre
+ 
  ![Snake animation](https://github.com/Joallisson/Joallisson/blob/output/github-contribution-grid-snake.svg)
