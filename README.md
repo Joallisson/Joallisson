@@ -6,7 +6,7 @@
   <img align="right" width="350em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Joallisson&layout=compact&langs_count=7&theme=dark"/>
 </div>
 
-
+<img align="right" width="400em" src="devs.jpg"/>
 
  
  ![Snake animation](https://github.com/Joallisson/Joallisson/blob/output/github-contribution-grid-snake.svg)
