@@ -8,7 +8,7 @@
 
 <img align="right" width="400em" src="devs.jpg"/>
 <br/>
-<br/>
+<br/>  
 
 ## Tecnologias que uso no meu dia-a-dia
  
