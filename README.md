@@ -22,6 +22,8 @@
 - 💻 Gosto muito de tecnologia e gosto de estudar programação no tempo livre
 
 <br/>
+<br/>
+<br/>
 
 <a href="https://www.facebook.com/profile.php?id=100013036902145" target="_blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" target="_blank"></a>
  
