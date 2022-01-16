@@ -1,6 +1,6 @@
 ## 👋 Olá Devs, me chamo joallisson, sou programador e estudante de tecnologia
 
-<div align="left" padding-bottom="50em">
+<div align="center" padding-bottom="50em">
   <a href="https://github.com/Joallisson"/>
   <img align="center" height="200em"src="https://github-readme-stats.vercel.app/api?username=Joallisson&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img align="center" height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Joallisson&layout=compact&langs_count=7&theme=dark"/>
