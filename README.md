@@ -8,6 +8,6 @@
 
 <img align="right" width="400em" src="devs.jpg"/>        
 
-## Tecnologias que uso no meu dia-a-dia
+  ## Tecnologias que uso no meu dia-a-dia  
  
  ![Snake animation](https://github.com/Joallisson/Joallisson/blob/output/github-contribution-grid-snake.svg)
