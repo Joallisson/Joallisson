@@ -2,13 +2,17 @@
 
 <div align="left">
   <a href="https://github.com/Joallisson"/>
-  <img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=Joallisson&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img align="center" width="400em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Joallisson&layout=compact&langs_count=7&theme=dark"/>
+  <img align="left" height="180em" src="https://github-readme-stats.vercel.app/api?username=Joallisson&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img align="right" width="470em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Joallisson&layout=compact&langs_count=7&theme=dark"/>
 </div>
-  
-<img align="right" width="300em" src="devs.jpg"/>
+
+<img align="right" width="400em" src="devs.jpg"/>
+
+<div align="left" width="1400em"> .</div>
+
 
 ## Tecnologias que uso no meu dia-a-dia
+
 <div style="display: inline_block"><br>
   <img align="center" alt="Joallisson-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Joal-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
