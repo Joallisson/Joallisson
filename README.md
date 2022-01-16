@@ -9,6 +9,8 @@
 
 <img border="solid 5px" align="right" width="400em" src="devs.jpg"/>
 
+ <br/>
+
 ## Tecnologias que uso no meu dia-a-dia  
  
  <br/>
