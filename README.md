@@ -5,8 +5,9 @@
   <img align="left" height="180em" width="450em" src="https://github-readme-stats.vercel.app/api?username=Joallisson&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img align="right" height="180em" width="350em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Joallisson&layout=compact&langs_count=7&theme=dark"/>
 </div>
+<div widthBorder="5"></div>
 
-<img align="right" width="900em" src="devs.jpg"/>        
+<img align="right" width="400em" src="devs.jpg"/>        
 
 ## Tecnologias que uso no meu dia-a-dia
  
