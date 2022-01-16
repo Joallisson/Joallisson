@@ -6,9 +6,7 @@
   <img align="right" height="180em" width="350em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Joallisson&layout=compact&langs_count=7&theme=dark"/>
 </div>
 
-<img align="right" width="400em" src="devs.jpg"/>
-<br/>
-<br/>  
+<img align="right" width="400em" src="devs.jpg"/>      
 
 ## Tecnologias que uso no meu dia-a-dia
  
