@@ -11,7 +11,7 @@
 
  <br/>
 
-## Tecnologias que uso no meu dia-a-dia  
+## Tecnologias que uso no dia-a-dia  
  
  <br/>
  
