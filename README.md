@@ -6,8 +6,10 @@
   <img align="right" height="180em" width="350em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Joallisson&layout=compact&langs_count=7&theme=dark"/>
 </div>
 
-<img align="right" width="400em" src="devs.jpg"/>        
+<div style="border: 5px solid red" margin="500">TESTEANDO</div>
 
-  ## Tecnologias que uso no meu dia-a-dia  
+<img border="solid 5px" align="right" width="400em" src="devs.jpg"/>
+
+## Tecnologias que uso no meu dia-a-dia  
  
  ![Snake animation](https://github.com/Joallisson/Joallisson/blob/output/github-contribution-grid-snake.svg)
