@@ -6,7 +6,7 @@
   <img align="right" height="180em" width="350em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Joallisson&layout=compact&langs_count=7&theme=dark"/>
 </div>
 
-<div style="border: 5px solid red" margin="500">TESTEANDO</div>
+<div>TESTEANDO</div>
 
 <img border="solid 5px" align="right" width="400em" src="devs.jpg"/>
 
