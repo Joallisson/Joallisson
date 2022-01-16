@@ -15,6 +15,8 @@
  
  <br/>
  
+## Um pouco sobre mim
+ 
 - 💼 Trabalho atualmente como tecnico em informática
 - 👨 Tenho 22 anos
 - 🏠 Moro em Balsas Ma - Brasil
