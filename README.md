@@ -34,9 +34,6 @@
 - 🎓 Graduado em Sistemas de Informação
 - 💻 Gosto muito de tecnologia e estudo programação no tempo livre
 
-<br/>
-<br/>
-<br/>
 
 ## Meus contatos 👇
 <a href="https://www.linkedin.com/in/joallisson-nascimento-castro-42b1241b5/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
