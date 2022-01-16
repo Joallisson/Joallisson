@@ -12,7 +12,6 @@
 ## Tecnologias que uso no meu dia-a-dia  
  
  <br/>
- <br/>
  
 - 💼 Trabalho atualmente como tecnico em informática
 - 👨 Tenho 22 anos
