@@ -32,7 +32,7 @@
 - 👨 Tenho 22 anos
 - 🏠 Moro em Balsas Ma - Brasil
 - 🎓 Graduado em Sistemas de Informação
-- 💻 Gosto muito de tecnologia e estudo programação sempre que posso
+- 💻 Gosto muito de tecnologia e estou sempre buscando aprender coisas novas
 
 
 ## Meus contatos 👇
