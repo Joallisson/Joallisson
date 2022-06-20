@@ -28,11 +28,11 @@
  
 ## Um pouco sobre mim
  
-- 💼 Trabalho atualmente como tecnico em informática
+- 💼 Trabalho atualmente como Programador Backend
 - 👨 Tenho 22 anos
 - 🏠 Moro em Balsas Ma - Brasil
 - 🎓 Graduado em Sistemas de Informação
-- 💻 Gosto muito de tecnologia e estudo programação no tempo livre
+- 💻 Gosto muito de tecnologia e estudo programação sempre que posso
 
 
 ## Meus contatos 👇
