@@ -28,8 +28,8 @@
  
 ## Um pouco sobre mim
  
-- 💼 Trabalho atualmente como Programador Backend
-- 👨 Tenho 22 anos
+- 💼 Trabalho atualmente como Programador Full Stack
+- 👨 Tenho 23 anos
 - 🏠 Moro em Balsas Ma - Brasil
 - 🎓 Graduado em Sistemas de Informação
 - 💻 Gosto muito de tecnologia e estou sempre buscando aprender coisas novas
