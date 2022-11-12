@@ -44,4 +44,14 @@
 <a href="https://www.instagram.com/invites/contact/?i=r5rspjal90ul&utm_content=22rzb8b" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 <a href="https://www.facebook.com/profile.php?id=100013036902145" target="_blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" target="_blank"></a>
  
+[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=joallisson&bg_color=000000&color=80ff9f&line=00ff9d&point=147500&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+  
  ![Snake animation](https://github.com/Joallisson/Joallisson/blob/output/github-contribution-grid-snake.svg)
+  
+<div align="center">
+<br><p align="centre"><b>Visitors Count</b></p>  
+<p align="center"><img align="center" src="https://profile-counter.glitch.me/{joallisson}/count.svg" /></p> 
+<br>
+</div>
+  
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=36802d&height=120&section=footer"/>
