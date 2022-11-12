@@ -1,4 +1,7 @@
-## 👋 Olá Devs, me chamo joallisson, sou programador e estudante de tecnologia
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=36802d&height=120&section=header"/>
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=36802d&size=35&center=true&vCenter=true&width=1000&lines=Hi+Devs;+My+name+is+joallisson;+I'm+23+years+old;I'm+from+Brazil;I+Graduated+in+information+systems;I'm+programmer+and+technology+student.+:%29)](https://git.io/typing-svg)
+
 <div>
   <a href="https://github.com/joallisson">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=joallisson&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
