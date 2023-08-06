@@ -1,6 +1,6 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=36802d&height=120&section=header"/>
  
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=36802d&size=35&center=true&vCenter=true&width=1000&lines=Hi+Devs;+My+name+is+joallisson;+I'm+23+years+old;I'm+from+Brazil;I'm+Graduated+in+information+systems;I'm+programmer+and+technology+student.+:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=36802d&size=35&center=true&vCenter=true&width=1000&lines=Hi+Devs;+My+name+is+joallisson;+I'm+24+years+old;I'm+from+Brazil;I'm+Graduated+in+information+systems;I'm+programmer+and+technology+student.+:%29)](https://git.io/typing-svg)
 
 <div>
   <a href="https://github.com/joallisson">
@@ -33,7 +33,7 @@
 ## Um pouco sobre mim
  
 - 💼 Trabalho atualmente como Programador Full Stack
-- 👨 Tenho 23 anos
+- 👨 Tenho 24 anos
 - 🏠 Moro em Balsas Ma - Brasil
 - 🎓 Graduado em Sistemas de Informação
 - 💻 Gosto muito de tecnologia e estou sempre buscando aprender coisas novas
